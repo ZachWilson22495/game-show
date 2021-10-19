@@ -1,0 +1,36 @@
+#apples-showing {
+  display: none;
+}
+
+#garbage-showing {
+  display: none;
+}
+
+#respect-showing {
+  display: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.apples-choice {
+  font-size: 100px;
+}
+
+.garbage-choice {
+  font-size: 100px;
+}
+
+.respect-choice {
+  font-size: 100px;
+}
+
+.retry {
+  font-size: 50px;
+  text-align: center;
+}
